@@ -1,8 +1,10 @@
 # learning-git
 Learning a Git workflow
 
+Good videos! (http://git-scm.com/videos)
+
 #Clone the repo, browse to the appropriate subdirectory, and click on index.html!
-##Arrow keys navigate
+  * Arrow keys navigate
 
 #### Images found on images.google.com, I claim no rights to them....
   * http://animationideas.com/wp-content/uploads/2011/02/starting-line1.jpg
